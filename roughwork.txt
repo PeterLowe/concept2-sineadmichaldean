@@ -4,10 +4,14 @@ Title
 michael rapciak, dean flood, Sinead Barry
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Assassins Creed: A Space Odyssey is an Open World Action-Adventure game set in the vast emptiness of space.
+Go through missions assassinating space templars as you unlock new weapons and explore new areas of the cosmos.
 ...
 World Background
-main differences in your game world
+Compared to the normal Assassins Creed world, this one has to be set in space. 
+The vast majority of this map will be based off of jumping between planets and trying to avoid trouble.
+You will have asteroids to hide behind, planets to settle and disguise in, and weapons to help you disguise better.
+It will be set in a Sci-Fi world where you are a mercenary set to steal the space apple of eden.
 ...
 Pillars
 3-4 fundementals of this game
