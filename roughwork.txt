@@ -1,7 +1,7 @@
-[df]Remeber to put your initials in square brackets at rthe start of each section
+[df] [sb] [mr]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-michael rapciak, dean flood
+michael rapciak, dean flood, Sinead Barry
 
 Elevator pitch 
 Describe your game in 30 seconds or less
