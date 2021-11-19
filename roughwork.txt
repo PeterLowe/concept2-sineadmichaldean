@@ -11,9 +11,16 @@ main differences in your game world
 ...
 Pillars
 3-4 fundementals of this game
+open world
+counter based real time combat
+stealth 
+parkour
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
+The overall gameplay loop would have players fly around on the "hidden jetpack" to stealth around
+the open space colonies assassinating the space templars to regain the space apple of eden with a 
+variety of new and old weapons
 ...
 Features points
 key selling points of your game
